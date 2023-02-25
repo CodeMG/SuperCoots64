@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: fb65dc7374343c3409c1f76ad15a0180
+  - enabled: 1
+    path: Assets/Scenes/Bombclip.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/LevelPicker.unity
+    guid: 8699cf53217a20e449575e5a3560fb1a
+  - enabled: 1
+    path: Assets/Scenes/Penguin.unity
+    guid: 66f40b1e9b3a94e4bb4049ef75583882
+  - enabled: 1
+    path: Assets/Scenes/Lavafall.unity
+    guid: 9e670228de639ad409ed3880cd6d4b6e
+  - enabled: 1
+    path: Assets/Scenes/BLJ.unity
+    guid: 960216cad67a4f24fae32b8e8608f49b
+  - enabled: 1
+    path: Assets/Scenes/Bowser.unity
+    guid: 4d1c87d0d6acd8a4bb28a9af4e2b531c
+  - enabled: 1
+    path: Assets/Scenes/HighScore.unity
+    guid: 245cb0bee3610fb44bbf0a24ea430b12
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 822130139232aba42bf99410409a9413, type: 2}
